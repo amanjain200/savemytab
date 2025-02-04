@@ -39,7 +39,7 @@ const PremiumWaitlist = () => {
       <div className="bg-white p-6 rounded-2xl shadow-lg max-w-md w-full">
         <div className="flex justify-center mb-6 ">
           <img
-            src="src\assets\smt1281.png"
+            src="public\smt1281.png"
             alt="SaveMyTabs Logo"
             className="w-32 h-32"
           />
