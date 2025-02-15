@@ -14,7 +14,7 @@ const PremiumWaitlist = () => {
     }
 
     // Simple API call placeholder
-    fetch("http://localhost:5000/api/waitlist/", {
+    fetch("http://smt-backend.azurewebsites.net/api/waitlist/", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
